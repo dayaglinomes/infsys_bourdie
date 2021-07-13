@@ -1,1 +1,8 @@
-
+Original: Бюрократический патронаж и паттерны административного рекрутирования региональных элит в россии: опыт сравнительного сетевого анализа
+Year_in: start of the event
+Year_out: end of the event
+Type: type of the event
+City: the location of the event
+Organization: organization adjacent to the event
+Unit: further specification of organization
+is_elite: whether the event happened before(до) the inclusion to regional elite or after (после) or during being the elite (элита)
