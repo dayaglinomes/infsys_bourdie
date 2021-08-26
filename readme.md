@@ -1,1 +1,1 @@
-# This repository contains scripts and datasets to the course Social Network Analysis
+## This repository contains scripts and datasets to the course Social Network Analysis at HSE university
